@@ -1,0 +1,6 @@
+{
+    "require": {
+        "pbmedia/laravel-ffmpeg": "^8.6",
+        "php-ffmpeg/php-ffmpeg": "^1.3"
+    }
+}
